@@ -1,6 +1,6 @@
 # Intellexa AI
 
-Intellexa AI is a multi-agent, enterprise-grade LLM assistant that combines RAG, LangGraph, LangChain, and LangSmith to simulate 2+ years of AI engineering experience.
+Intellexa AI is a multi-agent, enterprise-grade LLM assistant that combines RAG, LangGraph, LangChain, and LangSmith.
 
 ## Features
 - RAG pipeline with FAISS
