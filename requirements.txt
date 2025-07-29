@@ -1,0 +1,13 @@
+langchain_community
+langgraph
+langsmith
+faiss-cpu
+sentence-transformers
+openai
+python-dotenv
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+sse_starlette
